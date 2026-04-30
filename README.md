@@ -2,8 +2,6 @@
 
 StayEase is a modern, full-stack house rental platform designed for seamless property browsing, booking, and rental management.
 
-**Live Demo:** [https://house-rental-system-seven.vercel.app/](house-rental-system-seven.vercel.app)
-
 ---
 
 ## 🚀 Features
