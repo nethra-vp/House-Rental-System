@@ -1,37 +1,44 @@
-# DriveFlow | Premium Vehicle Rental System
+# StayEase | Modern House Rental System
 
-DriveFlow is a modern, full-stack vehicle rental platform designed for seamless car browsing, booking, and fleet management.
+StayEase is a modern, full-stack house rental platform designed for seamless property browsing, booking, and rental management.
 
-**Live Demo:** [https://vehicle-rental-system-drive-flow.vercel.app/](https://vehicle-rental-system-drive-flow.vercel.app/)
+**Live Demo:** [https://house-rental-system-stayease.vercel.app/](https://house-rental-system-stayease.vercel.app/)
+
+---
 
 ## 🚀 Features
 
 ### For Users
-- **Modern Fleet Browser**: Explore premium vehicles with filters for location and price.
-- **Seamless Booking**: Real-time availability checks and instant booking flow.
-- **My Bookings**: Manage your active rentals and view your journey history.
-- **Simulated Payments**: Integrated mock payment gateway for a complete experience.
+- **Property Explorer**: Browse houses with filters for location, price, and availability.
+- **Easy Booking**: Select date ranges and book properties with real-time availability checks.
+- **My Bookings**: View, manage, and cancel your reservations.
+- **Flexible Stay Options**: Choose properties based on rooms and accommodation capacity.
+- **Simulated Payments**: Dummy payment system with multiple options (UPI/Card/Cash).
 
 ### For Admins
-- **Interactive Dashboard**: Track total revenue, fleet size, and active bookings at a glance.
-- **Fleet Management**: Full CRUD operations to add, edit, or remove vehicles from the inventory.
-- **Booking Records**: Monitor all customer reservations and update their status (Confirmed/Completed/Cancelled).
-- **Revenue Tracking**: Automated financial reporting that updates in real-time.
+- **Admin Dashboard**: Monitor total revenue, available properties, and bookings.
+- **Property Management**: Add, update, and delete house listings (villa, flat, duplex, penthouse, etc.).
+- **Booking Management**: Track all bookings and update status (Confirmed/Completed/Cancelled).
+- **Revenue Tracking**: View payment records and overall earnings.
+
+---
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: Next.js 15 (App Router), Tailwind CSS, Lucide Icons
-- **Backend**: Next.js Server Actions & API Routes
-- **Database**: MongoDB Atlas with Mongoose ODM
-- **Deployment**: Vercel
+- **Frontend**: Next.js 15 (App Router), Tailwind CSS, Lucide Icons  
+- **Backend**: Next.js Server Actions & API Routes  
+- **Database**: MongoDB Atlas with Mongoose ODM  
+- **Deployment**: Vercel  
+
+---
 
 ## ⚙️ Local Setup
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/nethra-vp/Vehicle_Rental_System.git
-   cd vehicle-rental-system
-   ```
+   git clone https://github.com/nethra-vp/House_Rental_System.git
+   cd house-rental-system
+   
 
 2. **Install dependencies**:
    ```bash
